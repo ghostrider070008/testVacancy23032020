@@ -1,0 +1,26 @@
+{
+  "name": "testvacancy23032020",
+  "version": "1.0.0",
+  "description": "My First Gulp Project",
+  "main": "index.js",
+  "dependencies": {
+    "fund": "^1.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghostrider070008/testVacancy23032020.git"
+  },
+  "author": "Artem Stekolnikov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghostrider070008/testVacancy23032020/issues"
+  },
+  "homepage": "https://github.com/ghostrider070008/testVacancy23032020#readme"
+}
